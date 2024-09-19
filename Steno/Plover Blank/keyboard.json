@@ -124,13 +124,13 @@
             "KeyCodes": [
                 81
             ],
-            "Text": "S",
+            "Text": "",
             "TextPosition": {
                 "X": 75,
                 "Y": 112
             },
             "ChangeOnCaps": false,
-            "ShiftText": "S"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -256,13 +256,13 @@
             "KeyCodes": [
                 65
             ],
-            "Text": "S",
+            "Text": "",
             "TextPosition": {
                 "X": 75,
                 "Y": 112
             },
             "ChangeOnCaps": false,
-            "ShiftText": "S"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -288,13 +288,13 @@
             "KeyCodes": [
                 87
             ],
-            "Text": "T",
+            "Text": "",
             "TextPosition": {
                 "X": 128,
                 "Y": 80
             },
             "ChangeOnCaps": false,
-            "ShiftText": "T"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -320,13 +320,13 @@
             "KeyCodes": [
                 69
             ],
-            "Text": "P",
+            "Text": "",
             "TextPosition": {
                 "X": 181,
                 "Y": 80
             },
             "ChangeOnCaps": false,
-            "ShiftText": "P"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -352,13 +352,13 @@
             "KeyCodes": [
                 82
             ],
-            "Text": "H",
+            "Text": "",
             "TextPosition": {
                 "X": 234,
                 "Y": 80
             },
             "ChangeOnCaps": false,
-            "ShiftText": "H"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -484,13 +484,13 @@
             "KeyCodes": [
                 83
             ],
-            "Text": "K",
+            "Text": "",
             "TextPosition": {
                 "X": 128,
                 "Y": 143
             },
             "ChangeOnCaps": false,
-            "ShiftText": "K"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -616,13 +616,13 @@
             "KeyCodes": [
                 68
             ],
-            "Text": "W",
+            "Text": "",
             "TextPosition": {
                 "X": 181,
                 "Y": 143
             },
             "ChangeOnCaps": false,
-            "ShiftText": "W"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -748,13 +748,13 @@
             "KeyCodes": [
                 70
             ],
-            "Text": "R",
+            "Text": "",
             "TextPosition": {
                 "X": 234,
                 "Y": 143
             },
             "ChangeOnCaps": false,
-            "ShiftText": "R"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -880,13 +880,13 @@
             "KeyCodes": [
                 84
             ],
-            "Text": "*",
+            "Text": "",
             "TextPosition": {
                 "X": 287,
                 "Y": 112
             },
             "ChangeOnCaps": false,
-            "ShiftText": "*"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -1012,13 +1012,13 @@
             "KeyCodes": [
                 89
             ],
-            "Text": "*",
+            "Text": "",
             "TextPosition": {
                 "X": 287,
                 "Y": 112
             },
             "ChangeOnCaps": false,
-            "ShiftText": "*"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -1144,13 +1144,13 @@
             "KeyCodes": [
                 71
             ],
-            "Text": "*",
+            "Text": "",
             "TextPosition": {
                 "X": 287,
                 "Y": 112
             },
             "ChangeOnCaps": false,
-            "ShiftText": "*"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -1276,13 +1276,13 @@
             "KeyCodes": [
                 72
             ],
-            "Text": "*",
+            "Text": "",
             "TextPosition": {
                 "X": 287,
                 "Y": 112
             },
             "ChangeOnCaps": false,
-            "ShiftText": "*"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -1308,13 +1308,13 @@
             "KeyCodes": [
                 85
             ],
-            "Text": "F",
+            "Text": "",
             "TextPosition": {
                 "X": 340,
                 "Y": 80
             },
             "ChangeOnCaps": false,
-            "ShiftText": "F"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -1340,13 +1340,13 @@
             "KeyCodes": [
                 73
             ],
-            "Text": "P",
+            "Text": "",
             "TextPosition": {
                 "X": 393,
                 "Y": 80
             },
             "ChangeOnCaps": false,
-            "ShiftText": "P"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -1372,13 +1372,13 @@
             "KeyCodes": [
                 79
             ],
-            "Text": "L",
+            "Text": "",
             "TextPosition": {
                 "X": 446,
                 "Y": 80
             },
             "ChangeOnCaps": false,
-            "ShiftText": "L"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -1404,13 +1404,13 @@
             "KeyCodes": [
                 80
             ],
-            "Text": "T",
+            "Text": "",
             "TextPosition": {
                 "X": 499,
                 "Y": 80
             },
             "ChangeOnCaps": false,
-            "ShiftText": "T"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -1436,13 +1436,13 @@
             "KeyCodes": [
                 219
             ],
-            "Text": "D",
+            "Text": "",
             "TextPosition": {
                 "X": 552,
                 "Y": 80
             },
             "ChangeOnCaps": false,
-            "ShiftText": "D"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -1568,13 +1568,13 @@
             "KeyCodes": [
                 74
             ],
-            "Text": "R",
+            "Text": "",
             "TextPosition": {
                 "X": 340,
                 "Y": 143
             },
             "ChangeOnCaps": false,
-            "ShiftText": "R"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -1700,13 +1700,13 @@
             "KeyCodes": [
                 75
             ],
-            "Text": "B",
+            "Text": "",
             "TextPosition": {
                 "X": 393,
                 "Y": 143
             },
             "ChangeOnCaps": false,
-            "ShiftText": "B"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -1832,13 +1832,13 @@
             "KeyCodes": [
                 76
             ],
-            "Text": "G",
+            "Text": "",
             "TextPosition": {
                 "X": 446,
                 "Y": 143
             },
             "ChangeOnCaps": false,
-            "ShiftText": "G"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -1964,13 +1964,13 @@
             "KeyCodes": [
                 186
             ],
-            "Text": "S",
+            "Text": "",
             "TextPosition": {
                 "X": 499,
                 "Y": 143
             },
             "ChangeOnCaps": false,
-            "ShiftText": "S"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2096,13 +2096,13 @@
             "KeyCodes": [
                 222
             ],
-            "Text": "Z",
+            "Text": "",
             "TextPosition": {
                 "X": 552,
                 "Y": 143
             },
             "ChangeOnCaps": false,
-            "ShiftText": "Z"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2228,13 +2228,13 @@
             "KeyCodes": [
                 67
             ],
-            "Text": "A",
+            "Text": "",
             "TextPosition": {
                 "X": 202,
                 "Y": 219
             },
             "ChangeOnCaps": false,
-            "ShiftText": "A"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2360,13 +2360,13 @@
             "KeyCodes": [
                 86
             ],
-            "Text": "O",
+            "Text": "",
             "TextPosition": {
                 "X": 255,
                 "Y": 219
             },
             "ChangeOnCaps": false,
-            "ShiftText": "O"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2492,13 +2492,13 @@
             "KeyCodes": [
                 78
             ],
-            "Text": "E",
+            "Text": "",
             "TextPosition": {
                 "X": 319,
                 "Y": 219
             },
             "ChangeOnCaps": false,
-            "ShiftText": "E"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2624,13 +2624,13 @@
             "KeyCodes": [
                 77
             ],
-            "Text": "U",
+            "Text": "",
             "TextPosition": {
                 "X": 372,
                 "Y": 219
             },
             "ChangeOnCaps": false,
-            "ShiftText": "U"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2656,13 +2656,13 @@
             "KeyCodes": [
                 49
             ],
-            "Text": "#",
+            "Text": "",
             "TextPosition": {
                 "X": 314,
                 "Y": 34
             },
             "ChangeOnCaps": false,
-            "ShiftText": "#"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2688,13 +2688,13 @@
             "KeyCodes": [
                 50
             ],
-            "Text": "#",
+            "Text": "",
             "TextPosition": {
                 "X": 314,
                 "Y": 34
             },
             "ChangeOnCaps": false,
-            "ShiftText": "#"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2720,13 +2720,13 @@
             "KeyCodes": [
                 51
             ],
-            "Text": "#",
+            "Text": "",
             "TextPosition": {
                 "X": 314,
                 "Y": 34
             },
             "ChangeOnCaps": false,
-            "ShiftText": "#"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2752,13 +2752,13 @@
             "KeyCodes": [
                 52
             ],
-            "Text": "#",
+            "Text": "",
             "TextPosition": {
                 "X": 314,
                 "Y": 34
             },
             "ChangeOnCaps": false,
-            "ShiftText": "#"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2784,13 +2784,13 @@
             "KeyCodes": [
                 53
             ],
-            "Text": "#",
+            "Text": "",
             "TextPosition": {
                 "X": 314,
                 "Y": 34
             },
             "ChangeOnCaps": false,
-            "ShiftText": "#"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2816,13 +2816,13 @@
             "KeyCodes": [
                 54
             ],
-            "Text": "#",
+            "Text": "",
             "TextPosition": {
                 "X": 314,
                 "Y": 34
             },
             "ChangeOnCaps": false,
-            "ShiftText": "#"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2848,13 +2848,13 @@
             "KeyCodes": [
                 55
             ],
-            "Text": "#",
+            "Text": "",
             "TextPosition": {
                 "X": 314,
                 "Y": 34
             },
             "ChangeOnCaps": false,
-            "ShiftText": "#"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2880,13 +2880,13 @@
             "KeyCodes": [
                 56
             ],
-            "Text": "#",
+            "Text": "",
             "TextPosition": {
                 "X": 314,
                 "Y": 34
             },
             "ChangeOnCaps": false,
-            "ShiftText": "#"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2912,13 +2912,13 @@
             "KeyCodes": [
                 57
             ],
-            "Text": "#",
+            "Text": "",
             "TextPosition": {
                 "X": 314,
                 "Y": 34
             },
             "ChangeOnCaps": false,
-            "ShiftText": "#"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2944,13 +2944,13 @@
             "KeyCodes": [
                 48
             ],
-            "Text": "#",
+            "Text": "",
             "TextPosition": {
                 "X": 314,
                 "Y": 34
             },
             "ChangeOnCaps": false,
-            "ShiftText": "#"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -2976,13 +2976,13 @@
             "KeyCodes": [
                 189
             ],
-            "Text": "#",
+            "Text": "",
             "TextPosition": {
                 "X": 314,
                 "Y": 34
             },
             "ChangeOnCaps": false,
-            "ShiftText": "#"
+            "ShiftText": ""
         },
         {
             "__type": "KeyboardKey",
@@ -3008,13 +3008,13 @@
             "KeyCodes": [
                 187
             ],
-            "Text": "#",
+            "Text": "",
             "TextPosition": {
                 "X": 314,
                 "Y": 34
             },
             "ChangeOnCaps": false,
-            "ShiftText": "#"
+            "ShiftText": ""
         }
     ],
     "Height": 289,
